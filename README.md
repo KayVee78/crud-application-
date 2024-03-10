@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <p align="center">
-   Simple API to Perform CRUD Operations
+   Simple CRUD Application
     <br />
     <br />
   </p>
