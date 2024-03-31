@@ -86,7 +86,7 @@ An app to explore React.js and Node.js fundamentals. It demonstrates creating a 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/KayVee78/customer-crud.git
+   git clone https://github.com/KayVee78/crud-application.git
    ```
 2. Install NPM packages
    ```sh
