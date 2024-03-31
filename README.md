@@ -38,7 +38,8 @@ An app to explore React.js and Node.js fundamentals. It demonstrates creating a 
 
 <dl>
   <dt>Index.js</dt>
-  <dd>Entry point to the server.</dd>
+  <dd>BE - Entry point to the server.</dd>
+  <dd>FE - Entry point to the client application.</dd>
   <dt>App.js</dt>
   <dd>Main component of the entire application.</dd>
   <dt>package.json</dt>
