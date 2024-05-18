@@ -105,7 +105,7 @@ An app to explore React.js and Node.js fundamentals. It demonstrates creating a 
    ```sh
    npm devStart
    ```
-
+![image](https://github.com/KayVee78/crud-application/assets/90994452/662572e2-c95f-47d5-a52a-f9eae7a932c0)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -120,5 +120,5 @@ An app to explore React.js and Node.js fundamentals. It demonstrates creating a 
 [React-url]: https://react.dev/
 [Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [Express-url]: https://expressjs.com/
-![image](https://github.com/KayVee78/crud-application/assets/90994452/662572e2-c95f-47d5-a52a-f9eae7a932c0)
+
 
